@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2025-11-14T00:00:00Z",
+    "platform": "CBO",
+    "components": 14,
+    "servers": 52,
+    "risk_90d": 18,
+    "risk_180d": 27,
+    "risk_360d": 39
+  },
+  {
+    "timestamp": "2025-11-14T00:00:00Z",
+    "platform": "Open Banking",
+    "components": 9,
+    "servers": 31,
+    "risk_90d": 24,
+    "risk_180d": 33,
+    "risk_360d": 46
+  },
+  {
+    "timestamp": "2025-11-14T00:00:00Z",
+    "platform": "Retail",
+    "components": 17,
+    "servers": 64,
+    "risk_90d": 31,
+    "risk_180d": 41,
+    "risk_360d": 58
+  },
+  {
+    "timestamp": "2025-11-14T00:00:00Z",
+    "platform": "Shared",
+    "components": 11,
+    "servers": 28,
+    "risk_90d": 12,
+    "risk_180d": 19,
+    "risk_360d": 25
+  }
+]
